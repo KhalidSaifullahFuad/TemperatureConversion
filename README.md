@@ -21,3 +21,10 @@
   Celsius: -15 C
   Rankine: 464.67 R
   ```
+  
+* Formulas: 
+  - Celsius (°C)= 5 / 9 x (Fahrenheit − 32)
+  - Kelvin (K) = Celsius + 273.15
+  - Rankine (°R) = (Celsius + 273.15) x 1.8
+
+* After clicking button, Input (5 C) and outputs (278.15 K, 41 F, 500.67 R) will be appended in a file called Text.csv.
