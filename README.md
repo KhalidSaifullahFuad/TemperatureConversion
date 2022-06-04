@@ -28,3 +28,4 @@
   - Rankine (°R) = (Celsius + 273.15) x 1.8
 
 * After clicking button, Input (5 C) and outputs (278.15 K, 41 F, 500.67 R) will be appended in a file called Text.csv.
+  ![output_csv](https://user-images.githubusercontent.com/64584169/172020979-9a84a959-6b7e-4ff7-8792-d4efc94c75bb.png)
